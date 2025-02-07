@@ -3,7 +3,7 @@ $(function () {
   const SafetyGuide = new Swiper(".safety", {
     speed: 500,
     loop: true,
-    slidesPerGroup: 3,
+    slidesPerGroup: 1,
 
     breakpoints: {
       320: {
